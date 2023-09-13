@@ -58,4 +58,5 @@ const friend1: Friend = {
     former: [],
   };
   
+  
   console.log(colleagues.current[0]);
