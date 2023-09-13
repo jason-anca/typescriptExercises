@@ -4,6 +4,7 @@ interface Friend {
     age: number
 }
 
+
 const friend1 = {
     name: "Mate Domonics",
     phone: "087-12345",
