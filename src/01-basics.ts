@@ -7,7 +7,7 @@ const friend1: Friend = {
   };
   
   const friend2: Friend = {
-    name: "Cormac Farrell",
+    name: "Patty Farrell",
     phone: "086--12345",
     age: 31,
   };
