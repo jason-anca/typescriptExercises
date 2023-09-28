@@ -56,5 +56,6 @@ function sortColleagues(colleagues: Colleague[], sorter: (c1: Colleague, c2: Col
     return filteredResult;
   }
 
+  
 console.log(findFriends(friends, (friend) => friend.name.startsWith('Pa')));
 console.log(findFriends(friends, (friend) => friend.age < 35));
